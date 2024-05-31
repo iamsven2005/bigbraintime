@@ -67,7 +67,7 @@ export default function Component() {
         <section id="story" className="my-16">
           <h2 className="text-3xl font-bold mb-4">Our Story</h2>
           <p>
-            MemeCoin's story is one of collaboration and community, where every participant contributes to the narrative
+            MemeCoin&apos;s story is one of collaboration and community, where every participant contributes to the narrative
             and growth of MemeCoins on the ICP.
           </p>
         </section>
